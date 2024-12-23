@@ -1,1 +1,1 @@
-jogo de quiz em python teste
+jogo de quiz em python 
