@@ -41,4 +41,13 @@ if answer4 == "B" :
 else:
     print("a resposta está incorreta")
 
-print(f"quiz acabou {score}/4")
+    print("Quem é o protagonista de gta iv?\n (A) Carl johnson\n (B) nico belic\n (C) Kratos\n (D) John")
+answer5 = input("Resposta:")
+if answer5 == "B" :
+    print("A resposta está correta")
+    score = score+ 1
+
+else:
+    print("a resposta está incorreta")
+
+print(f"quiz acabou {score}/5")
